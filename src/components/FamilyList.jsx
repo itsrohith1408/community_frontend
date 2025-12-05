@@ -16,7 +16,7 @@ export default function FamilyList({ families, loading, onAddFamily, onSelect, s
   return (
     <Box>
       <Box display="flex" alignItems="center" justifyContent="space-between" mb={1}>
-        <Typography variant="h6">Families</Typography>
+        <Typography variant="h6">Families asojasokasokas</Typography>
         <IconButton size="small" color="primary" onClick={() => { }}>
           <AddIcon />
         </IconButton>
