@@ -1,0 +1,10 @@
+/* src/index.css */
+.btn {
+  padding: 6px 12px;
+  border-radius: 4px;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.btn:hover { opacity: 0.95; }
